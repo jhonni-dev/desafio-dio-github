@@ -1,1 +1,5 @@
-O Gitbash é um terminal extendido para otimizar o uso d Git[D[D[D[Do [2~g[3~[3~[3~[3~Git
+- Gitbash é um terminal extendido para otimizar o uso do git
+- comando para criar um arquivo diretamento no terminal e editá-lo imediatamente é "cat > exemplo.txt" -swd
+- Para exibir o conteúdo, o comando é "cat exemplo.txt"
+- Este texto foi criado e editado diretamente no terminal
+- Para fazer um push o comando é "git push origin master"
